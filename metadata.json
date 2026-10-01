@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Web E2EE - Secure Real-Time Messenger",
+  "description": "Real-time encrypted chat application featuring end-to-end encryption with ECDH & AES-256-GCM, instant WebSocket messaging, multi-user authentication, and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
